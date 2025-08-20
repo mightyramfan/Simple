@@ -1,4 +1,4 @@
-![Enginuity Logo](Enginuity_logo.png)
+![Enginuity Logo](images/Enginuity_logo.png)
 
 # E3600
 

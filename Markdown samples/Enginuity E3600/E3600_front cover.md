@@ -1,6 +1,6 @@
-![Enginuity Logo](Enginuity_logo.png)
+![Enginuity Logo](images/Enginuity_logo.png)
 
-![Front Page Image](E3600_fp.png)
+![Front Page Image](images/E3600_fp.png)
 
 # E3600
 

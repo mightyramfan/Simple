@@ -23,7 +23,7 @@ Some appliances and tools may have relatively low rated wattage but can draw inr
 - To turn the unit off, press and hold the power button.
 > **NOTE:** The unit can not be turned off while it is being charged.
 
-![Turn On Power Station](LCD_Pwr_Bt.png)
+![Turn On Power Station](images/LCD_Pwr_Bt.png)
 
 ## TO USE THE DC OUTPUT
 
@@ -32,7 +32,7 @@ Some appliances and tools may have relatively low rated wattage but can draw inr
 - Plug the device or devices you want to power or charge into the power station’s DC output port(s).
 - Press and release the DC on/off button to turn off DC power. DC power will automatically turn off in two hours if no load is detected.
 
-![Turn DC Power On/Off](DC_ON_OFF.png)
+![Turn DC Power On/Off](images/DC_ON_OFF.png)
 
 ## DC OUTPUT PANEL PROTECTIONS
 
@@ -59,7 +59,7 @@ circuit occurs.
 > **NOTE:**  The fast charge USB ports can charge and power most compatible electronic devices, including tablets and smartphones.
 - Press and release the USB on/off button to turn off USB power. USB power will automatically turn off in two hours if no load is detected.
 
-![Turn USB Power On/Off](USB_On_Off.png)
+![Turn USB Power On/Off](images/USB_On_Off.png)
 
 ## TO USE THE AC RECEPTACLE
 - Turn the unit on and wait five seconds for the unit to initialize.
@@ -67,7 +67,7 @@ circuit occurs.
 - Plug the device or devices you want to power or charge into the power station’s AC receptacles.
 - Press and release the AC on/off button to turn off AC power. AC power will automatically turn off in two hours if no load is detected.
 
-![Turn AC Power On/Off](AC_Rept_On_Off.png)
+![Turn AC Power On/Off](images/AC_Rept_On_Off.png)
 
 ## UPS FUNCTIONALITY
 
@@ -83,7 +83,7 @@ initialize.
 - Place a compatible device on the wireless charging pad to begin charging.
 - Press and release the USB on/off button to turn off wireless charging.
 
-![Wireless Charging](Wireless_Charge.png)
+![Wireless Charging](images/Wireless_Charge.png)
 
 ## OVERLOAD RESET
 **Do not overload the power station!** Monitor the power station’s output. If the unit is nearing overload, turn the power station off. Remove one or more connected devices to decrease the load and resume normal operation. 
@@ -100,7 +100,7 @@ automatically stop discharging.
 - Check the power requirements for the devices you want to power or charge. Ensure that the power requirements do not exceed the unit’s load capacity.
 - Connect and charge devices as previously described.
 
-![Error Code](Error_Code.png)
+![Error Code](images/Error_Code.png)
 
 ## TO USE THE COMMUNICATION PORT
 
@@ -121,7 +121,7 @@ The communication port will allow 2nd generation power stations to connect in pa
 
 **UNDERSTANDING THE SMART LIFE APP**
 
-![Smart Life App](Smart_Life_App.png)
+![Smart Life App](images/Smart_Life_App.png)
 
 **TO EXPAND BATTERY CAPACITY**
 - Connect one end of a parallel cable (included with the EXB3600 and sold separately) to the extension port and the other end to an EXB3600 expansion battery
@@ -131,7 +131,7 @@ pack (sold separately) to increase the capacity of the power station by 3.686 kW
 - To remove an expansion battery pack, disconnect the parallel cable from the power station.
 >**NOTE: The parallel cable should be connected only when the E3600 power station and EXB3600 battery pack(s) are powered OFF.** If you connect or disconnect the parallel cable while the units are powered ON, they will automatically shut down within 10 seconds. To resume normal operation, turn the power station ON. Once the parallel cable is connected, all buttons and output panels on the battery pack(s) will be disabled. Controls and outputs must be accessed through the power station.
 
-![Extension Port](Extension_Port.png)
+![Extension Port](images/Extension_Port.png)
 
-![Expansion Packs](Expansion_Packs.png)
+![Expansion Packs](images/Expansion_Packs.png)
 
