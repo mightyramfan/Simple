@@ -135,3 +135,4 @@ pack (sold separately) to increase the capacity of the power station by 3.686 kW
 
 ![Expansion Packs](images/Expansion_Packs.png)
 
+

@@ -7,3 +7,4 @@
 ## Portable Power Station / User Manual
 
 **WARNING:** This manual contains important information to ensure the safe operation, handling and storage of this product. To reduce the risk of injury read and understand this manual prior to use. Save the manual for future reference.
+

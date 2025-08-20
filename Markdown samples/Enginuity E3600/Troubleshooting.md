@@ -13,3 +13,4 @@
 | Overload Detected | Turn off the unit. Remove all connected devices. Wait 5 seconds and turn the unit on. Verify power requirements for your device(s) before reconnecting. Do not exceed the unit’s load capacity.|
 | Power Station Fault | 1. Record the error code. <br> 2. Turn off the unit. Remove loads and/or disconnect charging cables. <br> 3. Contact customer services.|
 > If the error remains after trying the solutions listed above and restarting the unit, contact customer service for assistance.
+
