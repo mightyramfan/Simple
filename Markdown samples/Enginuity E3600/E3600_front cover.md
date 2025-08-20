@@ -1,4 +1,4 @@
-![Enginuity Logo](images/Enginuity_logo.png)
+![Enginuity Logo](images/Enginuity_logo.PNG)
 
 ![Front Page Image](images/E3600_fp.png)
 
