@@ -119,11 +119,11 @@ The communication port will allow 2nd generation power stations to connect in pa
 - To unpair the power station from the **Bluetooth®** enabled device, select the power station from the list of devices in the Smart Life App and select “Remove Device” in the bottom right hand corner.
 > **NOTE:** When a new device is paired, the unit will automatically unpair from a connected device.
 
-**UNDERSTANDING THE SMART LIFE APP**
+## UNDERSTANDING THE SMART LIFE APP
 
 ![Smart Life App](images/Smart_Life_App.png)
 
-**TO EXPAND BATTERY CAPACITY**
+## TO EXPAND BATTERY CAPACITY
 - Connect one end of a parallel cable (included with the EXB3600 and sold separately) to the extension port and the other end to an EXB3600 expansion battery
 pack (sold separately) to increase the capacity of the power station by 3.686 kWh.
 - Up to four EXB3600 expansion battery packs can be connected in parallel for a total of 14.744 additional kWh.
