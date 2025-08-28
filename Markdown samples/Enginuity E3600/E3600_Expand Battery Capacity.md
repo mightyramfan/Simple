@@ -1,4 +1,4 @@
-##TO EXPAND BATTERY CAPACITY
+## TO EXPAND BATTERY CAPACITY
 - Connect one end of a parallel cable (included with the EXB3600 and sold separately) to the extension port and the other end to an EXB3600 expansion battery
 pack (sold separately) to increase the capacity of the power station by 3.686 kWh.
 - Up to four EXB3600 expansion battery packs can be connected in parallel for a total of 14.744 additional kWh.
