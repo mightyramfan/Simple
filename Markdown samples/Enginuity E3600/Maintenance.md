@@ -11,3 +11,17 @@ vehicle.
 - To avoid damaging the internal battery, the power station should be stored in a partially charged state.
 	- When storing the unit for less than three months (short-term storage), charge the unit to 50% .
 	- When storing the unit for more than three months (long-term storage), charge the unit to 60% and add additional charge periodically.
+
+
+
+
+
+___
+
+___
+
+**BACK** - [Troubleshooting](./Troubleshooting.md)
+
+**NEXT** - [FCC Warning](./FCC Warning.md)
+
+**HOME** - [Table of Contents](./E3600_Table of Contents.md)

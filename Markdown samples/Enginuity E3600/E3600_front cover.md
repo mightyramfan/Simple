@@ -6,4 +6,18 @@
 
 ## Portable Power Station / User Manual
 
-**WARNING:** This manual contains important information to ensure the safe operation, handling and storage of this product. To reduce the risk of injury read and understand this manual prior to use. Save the manual for future reference.
+> [!WARNING]
+>
+> This manual contains important information to ensure the safe operation, handling and storage of this product. To reduce the risk of injury read and understand this manual prior to use. **Save the manual for future reference.**
+
+
+
+
+
+___
+
+___
+
+**NEXT** - [Important Safety Rules](./E3600_Safety.md)
+
+**HOME** - [Table of Contents](./E3600_Table of Contents.md)

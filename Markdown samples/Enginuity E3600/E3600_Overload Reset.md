@@ -15,3 +15,17 @@ automatically stop discharging.
 
 ![Error Code](images/Error_Code.png)
 
+
+
+
+
+___
+
+___
+
+**BACK** - [To Use Wireless Charging](./E3600_To Use Wireless Charging.md)
+
+**NEXT** - [To Use Communication Port](./E3600_To Use Communication Port.md)
+
+**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+

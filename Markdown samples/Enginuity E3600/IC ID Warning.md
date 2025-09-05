@@ -9,3 +9,17 @@ Le présent appareil est conforme aux CNR d’Industrie Canada applicables aux a
 2.  l’utilisateur de l’appareil doit accepter tout brouillage radioélectriquesubi, même si le brouillage est susceptible d’en compromettre le fonctionnement.
 
 Le présent appareil est conforme Après examen de ce matériel aux conformité ou aux limites d’intensité de champ RF, les utilisateurs peuvent sur l’exposition aux radiofréquences et compliance d’acquérir les informations correspondantes. La distance minimale du corps à utiliser le dispositif est de 20 cm.
+
+
+
+
+
+___
+
+___
+
+**BACK** - [FCC Warning](./FCC Warning.md)
+
+**NEXT** - [Warranty](./Warranty.md)
+
+**HOME** - [Table of Contents](./E3600_Table of Contents.md)

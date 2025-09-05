@@ -4,3 +4,17 @@ Enginuity Power Systems warrants to the original retail purchaser that this prod
 This warranty is non-transferable and does not cover damages from normal wear and tear, modifications, abuse, misuse, accidents, neglect, improper storage and maintenance, non-authorized servicing, or acts of God. The warranty is limited to the power station and the original purchaser. Enginuity Power Systems is not liable for any third party claims, property damage, data loss, financial hardship, etc. arising from the use of this product.
 The product, and any defective parts, must be returned to Enginuity Power Systems or an authorized service repairer within the warranty period. At the discretion of Enginuity Power Systems, the owner may be responsible for some or all of the shipping and delivery costs. In respect to claims, Enginuity Power Systems is only responsible for repairing or replacing defective items.
 This warranty provides specific legal rights; additional rights may differ by state. For more information, contact customer service at service@eflexps.com.
+
+
+
+
+
+___
+
+___
+
+**BACK** - [IC ID Warning](./IC ID Warning.md)
+
+**NEXT** - [Back Cover](./E3600_back cover.md)
+
+**HOME** - [Table of Contents](./E3600_Table of Contents.md)
