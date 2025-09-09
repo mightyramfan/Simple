@@ -2,11 +2,11 @@
 
 - Remove the connector from the electric vehicle charging point and plug it into the J-plug port (EV charge port).
 
-  > [!note]
+> [!note]
   >
   > The input voltage should be 120V. Voltage over this amount will cause charging failure.
 
-  > [!note]
+> [!note]
   > The power station is compatible with American standard electric vehicle charging points.
 
 - The LCD screen will display the remaining charge time and battery charge level.
@@ -23,5 +23,5 @@ ___
 
 **NEXT** - [Using Your Power Station](./E3600_Using_Your_Power_Station.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
 
