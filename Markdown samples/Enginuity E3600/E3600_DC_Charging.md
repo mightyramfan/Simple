@@ -4,7 +4,7 @@
 
 - Plug the car charging cable into the power station’s solar/car input port and then connect it to the vehicle’s 12V cigarette lighter port.
 
-  > [!NOTE]
+> [!NOTE]
   >
   > The provided car charging cable should only be used to charge the power station. Do not attempt to power other devices by using this cable.
 
@@ -22,5 +22,5 @@ ___
 
 **NEXT** - [Solar Charging](./E3600_Solar_Charging.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
 
