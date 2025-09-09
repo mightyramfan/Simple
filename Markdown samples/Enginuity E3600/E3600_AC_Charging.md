@@ -4,7 +4,7 @@
 
 - Press and hold the power button to turn on the unit. Charging will not begin unless the unit is powered on.
 
-  > [!NOTE]
+> [!NOTE]
   >
   > The unit must be turned on to enable charging.
 
