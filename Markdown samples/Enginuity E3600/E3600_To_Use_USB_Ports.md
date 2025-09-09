@@ -22,5 +22,5 @@ ___
 
 **NEXT** - [To Use AC Receptacle](./E3600_To_Use_AC_Receptacle.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
 
