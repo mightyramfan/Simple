@@ -1,6 +1,6 @@
 # MAINTAINING AND STORING THE UNIT
 
-## GENERAL E3600_Maintenance
+## GENERAL Maintenance
 - Routinely clean the unit’s exterior and vents. Turn the unit off. Use a clean cloth or soft bristle brush to remove dirt, oil, grease, etc. **Do not use water or solvents and never submerge the unit.**
 - Inspect the unit for broken parts, damaged ports/receptacles, loose screws, etc. **NEVER disassemble or attempt to service the power station.** If the unit is damaged, contact customer service for assistance.
 ## STORING THE POWER STATION
