@@ -27,5 +27,5 @@ ___
 
 **NEXT** - [To Use Communication Port](./E3600_To_Use_Communication_Port.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
 
