@@ -32,5 +32,5 @@ ___
 
 **NEXT** - [Understanding Smart Life App](./E3600_Understanding_Smart_Life_App.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
 
