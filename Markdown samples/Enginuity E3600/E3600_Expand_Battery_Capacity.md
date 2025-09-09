@@ -8,7 +8,7 @@
 
 - To remove an expansion battery pack, disconnect the parallel cable from the power station.
 
-  > [!NOTE]
+> [!NOTE]
   >
   > **The parallel cable should be connected only when the E3600 power station and EXB3600 battery pack(s) are powered OFF.** If you connect or disconnect the parallel cable while the units are powered ON, they will automatically shut down within 10 seconds. To resume normal operation, turn the power station ON. Once the parallel cable is connected, all buttons and output panels on the battery pack(s) will be disabled. Controls and outputs must be accessed through the power station.
 
@@ -28,4 +28,4 @@ ___
 
 **NEXT** - [E3600_Maintenance](./E3600_Maintenance.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
