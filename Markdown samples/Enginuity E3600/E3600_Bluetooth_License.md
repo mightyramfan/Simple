@@ -12,4 +12,4 @@ ___
 
 **NEXT** - [E3600_Specifications](./E3600_Specifications.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
