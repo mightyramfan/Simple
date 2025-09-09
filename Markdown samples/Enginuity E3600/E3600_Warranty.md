@@ -17,4 +17,4 @@ ___
 
 **NEXT** - [Back Cover](./E3600_back_cover.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
