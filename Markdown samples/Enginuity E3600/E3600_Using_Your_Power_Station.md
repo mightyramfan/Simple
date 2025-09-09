@@ -32,4 +32,4 @@ ___
 
 **NEXT** - [Turn PS On Off](./E3600_Turn_PS_On_Off.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
