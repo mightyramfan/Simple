@@ -18,9 +18,9 @@ ___
 
 ___
 
-**BACK** - [AC Charging](./E3600_AC Charging.md)
+**BACK** - [AC Charging](./E3600_AC_Charging.md)
 
-**NEXT** - [Solar Charging](./E3600_Solar Charging.md)
+**NEXT** - [Solar Charging](./E3600_Solar_Charging.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

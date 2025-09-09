@@ -10,6 +10,6 @@ ___
 
 **BACK** - [Recycling and Disposal](./E3600_Recycling_Disposal.md)
 
-**NEXT** - [Specifications](./Specifications.md)
+**NEXT** - [E3600_Specifications](./E3600_Specifications.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)

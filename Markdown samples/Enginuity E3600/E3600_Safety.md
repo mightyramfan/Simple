@@ -58,7 +58,7 @@
 
 - Do not charge the power station with a damaged cord, plug, or adapter.
 
-- The power station should only be charged using the power sources listed in the product specifications.
+- The power station should only be charged using the power sources listed in the product E3600_Specifications.
 
 - To avoid damaging the unit, only use cords that are provided or approved by the manufacturer to charge the power station.
 
@@ -90,7 +90,7 @@ ___
 
 ___
 
-**BACK** - [Front Cover](./E3600_front cover.md)
+**BACK** - [Front Cover](./E3600_front_cover.md)
 
 **NEXT** - [Recycling and Disposal](./E3600_Recycling_Disposal.md)
 

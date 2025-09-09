@@ -10,8 +10,8 @@ ___
 
 ___
 
-**BACK** - [To Use Bluetooth](./E3600_To Use Bluetooth.md)
+**BACK** - [To Use Bluetooth](./E3600_To_Use_Bluetooth.md)
 
-**NEXT** - [Expand Battery Capacity](./E3600_Expand Battery Capacity.md)
+**NEXT** - [Expand Battery Capacity](./E3600_Expand_Battery_Capacity.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)

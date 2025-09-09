@@ -14,9 +14,9 @@ ___
 
 ___
 
-**BACK** - [To Use AC Receptacle](./E3600_To Use AC Receptacle.md)
+**BACK** - [To Use AC Receptacle](./E3600_To_Use_AC_Receptacle.md)
 
-**NEXT** - [To Use Wireless Charging](./E3600_To Use Wireless Charging.md)
+**NEXT** - [To Use Wireless Charging](./E3600_To_Use_Wireless_Charging.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

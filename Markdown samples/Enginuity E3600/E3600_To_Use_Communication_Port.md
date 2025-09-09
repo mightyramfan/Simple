@@ -10,9 +10,9 @@ ___
 
 ___
 
-**BACK** - [Overload Reset](./E3600_Overload Reset.md)
+**BACK** - [Overload Reset](./E3600_Overload_Reset.md)
 
-**NEXT** - [To Use Bluetooth](./E3600_To Use Bluetooth.md)
+**NEXT** - [To Use Bluetooth](./E3600_To_Use_Bluetooth.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

@@ -23,9 +23,9 @@ ___
 
 ___
 
-**BACK** - [Using Your Power Station](./E3600_Using Your Power Station.md)
+**BACK** - [Using Your Power Station](./E3600_Using_Your_Power_Station.md)
 
-**NEXT** - [To Use DC Output](./E3600_To Use DC Output.md)
+**NEXT** - [To Use DC Output](./E3600_To_Use_DC_Output.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

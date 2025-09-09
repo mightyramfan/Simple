@@ -1,4 +1,4 @@
-# FCC WARNING
+# E3600_FCC_Warning
 This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
 Any changes or modifications not expressly approved by the party responsible for compliance could void the user’s authority to operate the equipment.
 
@@ -20,8 +20,8 @@ ___
 
 ___
 
-**BACK** - [Maintenance](./Maintenance.md)
+**BACK** - [E3600_Maintenance](./E3600_Maintenance.md)
 
-**NEXT** - [IC ID Warning](./IC ID Warning.md)
+**NEXT** - [E3600_IC_ID_Warning](./E3600_IC_ID_Warning.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)

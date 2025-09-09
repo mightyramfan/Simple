@@ -16,9 +16,9 @@ ___
 
 ___
 
-**BACK** - [Specifications](./Specifications.md)
+**BACK** - [E3600_Specifications](./E3600_Specifications.md)
 
-**NEXT** - [AC Charging](./E3600_AC Charging.md)
+**NEXT** - [AC Charging](./E3600_AC_Charging.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

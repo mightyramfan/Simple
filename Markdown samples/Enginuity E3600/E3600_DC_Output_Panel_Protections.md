@@ -16,7 +16,7 @@ The DC output panel is equipped with multiple protection features to ensure safe
 
 > [!WARNING]
 >
-> **Do not connect any external voltage source to the DC output ports. Backfeeding will void the warranty.**
+> **Do not connect any external voltage source to the DC output ports. Backfeeding will void the E3600_Warranty.**
 
 
 
@@ -26,9 +26,9 @@ ___
 
 ___
 
-**BACK** - [To Use DC Output](./E3600_To Use DC Output.md)
+**BACK** - [To Use DC Output](./E3600_To_Use_DC_Output.md)
 
-**NEXT** - [To Use USB Ports](./E3600_To Use USB Ports.md)
+**NEXT** - [To Use USB Ports](./E3600_To_Use_USB_Ports.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

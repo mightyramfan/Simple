@@ -1,4 +1,4 @@
-# SPECIFICATIONS
+# E3600_Specifications
 
 ### GENERAL
 
@@ -60,7 +60,7 @@
 
 
 
-### OTHER SPECIFICATIONS
+### OTHER E3600_Specifications
 
 |                        |                                                              |
 | ---------------------- | ------------------------------------------------------------ |
@@ -80,7 +80,7 @@ ___
 
 **BACK** - [Bluetooth License Statement](./E3600_Bluetooth_License.md)
 
-**NEXT** - [Charging Your Power Station](./E3600_charging your power station.md)
+**NEXT** - [Charging Your Power Station](./E3600_charging_your_power_station.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

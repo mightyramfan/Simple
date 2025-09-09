@@ -18,7 +18,7 @@ Some appliances and tools may have relatively low rated wattage but can draw inr
 >
 > - **Do not attempt to restart the same appliance.**
 > - Repeated overload events may **permanently damage** the unit.
-> - Damage caused by misuse, including **continuous overloading, is not covered under warranty.**
+> - Damage caused by misuse, including **continuous overloading, is not covered under E3600_Warranty.**
 
 
 
@@ -28,8 +28,8 @@ ___
 
 ___
 
-**BACK** - [EV Charging](./E3600_EV Charging.md)
+**BACK** - [EV Charging](./E3600_EV_Charging.md)
 
-**NEXT** - [Turn PS On Off](./E3600_Turn PS On Off.md)
+**NEXT** - [Turn PS On Off](./E3600_Turn_PS_On_Off.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)

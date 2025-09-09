@@ -18,9 +18,9 @@ ___
 
 ___
 
-**BACK** - [DC Output Panel Protections](./E3600_DC Output Panel Protections.md)
+**BACK** - [DC Output Panel Protections](./E3600_DC_Output_Panel_Protections.md)
 
-**NEXT** - [To Use AC Receptacle](./E3600_To Use AC Receptacle.md)
+**NEXT** - [To Use AC Receptacle](./E3600_To_Use_AC_Receptacle.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

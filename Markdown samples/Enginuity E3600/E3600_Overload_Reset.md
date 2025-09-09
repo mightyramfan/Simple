@@ -23,9 +23,9 @@ ___
 
 ___
 
-**BACK** - [To Use Wireless Charging](./E3600_To Use Wireless Charging.md)
+**BACK** - [To Use Wireless Charging](./E3600_To_Use_Wireless_Charging.md)
 
-**NEXT** - [To Use Communication Port](./E3600_To Use Communication Port.md)
+**NEXT** - [To Use Communication Port](./E3600_To_Use_Communication_Port.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

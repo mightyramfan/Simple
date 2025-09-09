@@ -16,8 +16,8 @@ ___
 
 ___
 
-**BACK** - [UPS Functionality](./E3600_UPS Functionality.md)
+**BACK** - [UPS Functionality](./E3600_UPS_Functionality.md)
 
-**NEXT** - [Overload Reset](./E3600_Overload Reset.md)
+**NEXT** - [Overload Reset](./E3600_Overload_Reset.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)

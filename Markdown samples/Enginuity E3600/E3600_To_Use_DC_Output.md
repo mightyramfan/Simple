@@ -15,9 +15,9 @@ ___
 
 ___
 
-**BACK** - [Turn PS On Off](./E3600_Turn PS On Off.md)
+**BACK** - [Turn PS On Off](./E3600_Turn_PS_On_Off.md)
 
-**NEXT** - [DC Output Panel Protections](./E3600_DC Output Panel Protections.md)
+**NEXT** - [DC Output Panel Protections](./E3600_DC_Output_Panel_Protections.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

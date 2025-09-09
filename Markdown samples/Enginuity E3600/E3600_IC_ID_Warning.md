@@ -1,4 +1,4 @@
-# IC ID WARNING
+# E3600_IC_ID_Warning
 This device complies with Industry Canada licence-exempt RSS standard(s). Operation is subject to the following two conditions:
 1. this device may not cause interference, and
 2. this device must accept any interference, including interference that may cause undesired operation of the device.
@@ -18,8 +18,8 @@ ___
 
 ___
 
-**BACK** - [FCC Warning](./FCC Warning.md)
+**BACK** - [E3600_FCC_Warning](./E3600_FCC_Warning.md)
 
-**NEXT** - [Warranty](./Warranty.md)
+**NEXT** - [E3600_Warranty](./E3600_Warranty.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)

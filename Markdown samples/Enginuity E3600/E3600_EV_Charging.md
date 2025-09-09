@@ -19,9 +19,9 @@ ___
 
 ___
 
-**BACK** - [Solar Charging](./E3600_Solar Charging.md)
+**BACK** - [Solar Charging](./E3600_Solar_Charging.md)
 
-**NEXT** - [Using Your Power Station](./E3600_Using Your Power Station.md)
+**NEXT** - [Using Your Power Station](./E3600_Using_Your_Power_Station.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

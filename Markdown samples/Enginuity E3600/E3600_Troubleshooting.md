@@ -1,4 +1,4 @@
-# TROUBLESHOOTING AND ERRORS
+# E3600_Troubleshooting AND ERRORS
 
 | ICONS | PROBLEM | SOLUTION |
 | ----------- | ----------- | ----------- |
@@ -24,8 +24,8 @@ ___
 
 ___
 
-**BACK** - [Expand Battery Capacity](./E3600_Expand Battery Capacity.md)
+**BACK** - [Expand Battery Capacity](./E3600_Expand_Battery_Capacity.md)
 
-**NEXT** - [Maintenance](./Maintenance.md)
+**NEXT** - [E3600_Maintenance](./E3600_Maintenance.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)

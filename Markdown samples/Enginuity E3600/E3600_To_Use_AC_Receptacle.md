@@ -14,9 +14,9 @@ ___
 
 ___
 
-**BACK** - [To Use USB Ports](./E3600_To Use USB Ports.md)
+**BACK** - [To Use USB Ports](./E3600_To_Use_USB_Ports.md)
 
-**NEXT** - [UPS Functionality](./E3600_UPS Functionality.md)
+**NEXT** - [UPS Functionality](./E3600_UPS_Functionality.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 

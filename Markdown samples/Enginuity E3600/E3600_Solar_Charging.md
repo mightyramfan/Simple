@@ -11,9 +11,9 @@ ___
 
 ___
 
-**BACK** - [DC Charging](./E3600_DC Charging.md)
+**BACK** - [DC Charging](./E3600_DC_Charging.md)
 
-**NEXT** - [EV Charging](./E3600_EV Charging.md)
+**NEXT** - [EV Charging](./E3600_EV_Charging.md)
 
 **HOME** - [Table of Contents](./E3600_Table of Contents.md)
 
