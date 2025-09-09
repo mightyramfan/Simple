@@ -1,4 +1,4 @@
-# E3600_IC_ID_Warning
+# IC ID Warning
 This device complies with Industry Canada licence-exempt RSS standard(s). Operation is subject to the following two conditions:
 1. this device may not cause interference, and
 2. this device must accept any interference, including interference that may cause undesired operation of the device.
