@@ -20,5 +20,5 @@ ___
 
 **NEXT** - [AC Charging](./E3600_AC_Charging.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
 
