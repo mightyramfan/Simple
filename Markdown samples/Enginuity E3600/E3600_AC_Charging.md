@@ -1,6 +1,6 @@
 ### AC Charging
 
-- Plug the AC charging cable into the power station’s AC input port. Connect the other end to a 110V–120V AC power outlet. (Use only a 110V–120V source. Using voltages outside this range may result in charging failure or permanent damage, which is not covered under E3600_Warranty.)
+- Plug the AC charging cable into the power station’s AC input port. Connect the other end to a 110V–120V AC power outlet. (Use only a 110V–120V source. Using voltages outside this range may result in charging failure or permanent damage, which is not covered under Warranty.)
 
 - Press and hold the power button to turn on the unit. Charging will not begin unless the unit is powered on.
 
