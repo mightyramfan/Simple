@@ -18,5 +18,5 @@ ___
 
 **NEXT** - [UPS Functionality](./E3600_UPS_Functionality.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
 
