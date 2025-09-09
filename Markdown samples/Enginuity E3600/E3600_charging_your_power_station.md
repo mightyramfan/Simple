@@ -6,7 +6,7 @@ The unit has an extremely low standby power consumption. When left powered off, 
 During charging, the cooling fan will adjust its speed based on the internal temperature. It is normal to hear fan noise when the system is under thermal load.
 If the AC charger remains connected after the battery is fully charged, the unit will not immediately resume charging. Charging will automatically restart only when the state of charge (SOC) drops below 95%. To conserve energy, the unit will automatically shut down if no output is detected for 2 hours.
 
-![Charging Options](C:\Users\pierr\Simple\Markdown samples\Enginuity E3600\images\Charging_Options.png)
+![Charging Options](images/Charging_Options.png)
 
 
 
