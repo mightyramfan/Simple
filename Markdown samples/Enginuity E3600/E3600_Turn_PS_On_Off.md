@@ -27,5 +27,5 @@ ___
 
 **NEXT** - [To Use DC Output](./E3600_To_Use_DC_Output.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
 
