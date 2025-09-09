@@ -19,5 +19,5 @@ ___
 
 **NEXT** - [DC Output Panel Protections](./E3600_DC_Output_Panel_Protections.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
 
