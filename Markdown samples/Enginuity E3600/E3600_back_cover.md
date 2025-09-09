@@ -24,4 +24,4 @@ ___
 
 **BACK** - [E3600_Warranty](./E3600_Warranty.md)
 
-**HOME** - [Table of Contents](./E3600_Table of Contents.md)
+**HOME** - [Table of Contents](./E3600_Table_of_Contents.md)
