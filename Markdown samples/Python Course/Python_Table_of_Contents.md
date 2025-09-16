@@ -19,16 +19,3 @@
 ### [Working with Files and Text](./Python_Working_w_Files.md)
 
 ### [Automating Documentation Tasks](./Python_Documentation_Automation.md)
-
-### [Check on Knowledge](./Python_Check_Knowledge.md)
-
-
-
-
-
-
-
-
-
-
-
